@@ -1,0 +1,29 @@
+[1.008s] Invoking command in '/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/src/tarea3': PYTHONPATH=/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tarea3 build --build-base /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build install --record /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/install.log --single-version-externally-managed install_data
+[1.185s] /home/usuario/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:270: UserWarning: Unknown distribution option: 'tests_require'
+[1.185s]   warnings.warn(msg)
+[1.367s] running egg_info
+[1.396s] writing ../../build/tarea3/tarea3.egg-info/PKG-INFO
+[1.397s] writing dependency_links to ../../build/tarea3/tarea3.egg-info/dependency_links.txt
+[1.397s] writing entry points to ../../build/tarea3/tarea3.egg-info/entry_points.txt
+[1.397s] writing requirements to ../../build/tarea3/tarea3.egg-info/requires.txt
+[1.398s] writing top-level names to ../../build/tarea3/tarea3.egg-info/top_level.txt
+[1.458s] reading manifest file '../../build/tarea3/tarea3.egg-info/SOURCES.txt'
+[1.459s] writing manifest file '../../build/tarea3/tarea3.egg-info/SOURCES.txt'
+[1.460s] running build
+[1.460s] running build_py
+[1.460s] copying tarea3/battery_gps_node.py -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build/lib/tarea3
+[1.461s] copying tarea3/mission_control_node.py -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build/lib/tarea3
+[1.462s] copying tarea3/__init__.py -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build/lib/tarea3
+[1.462s] running install
+[1.466s] running install_lib
+[1.497s] running install_data
+[1.497s] copying resource/tarea3 -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/share/ament_index/resource_index/packages
+[1.497s] copying package.xml -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/share/tarea3
+[1.498s] running install_egg_info
+[1.530s] removing '/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages/tarea3-0.0.0-py3.10.egg-info' (and everything under it)
+[1.531s] Copying ../../build/tarea3/tarea3.egg-info to /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages/tarea3-0.0.0-py3.10.egg-info
+[1.538s] running install_scripts
+[1.715s] Installing battery_gps_node script to /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/tarea3
+[1.716s] Installing mission_control_node script to /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/tarea3
+[1.716s] writing list of installed files to '/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/install.log'
+[1.737s] Invoked command in '/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/src/tarea3' returned '0': PYTHONPATH=/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tarea3 build --build-base /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build install --record /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/install.log --single-version-externally-managed install_data
