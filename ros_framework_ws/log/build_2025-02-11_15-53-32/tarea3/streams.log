@@ -1,0 +1,28 @@
+[1.003s] Invoking command in '/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/src/tarea3': PYTHONPATH=/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tarea3 build --build-base /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build install --record /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/install.log --single-version-externally-managed install_data
+[1.365s] running egg_info
+[1.393s] writing ../../build/tarea3/tarea3.egg-info/PKG-INFO
+[1.394s] writing dependency_links to ../../build/tarea3/tarea3.egg-info/dependency_links.txt
+[1.394s] writing entry points to ../../build/tarea3/tarea3.egg-info/entry_points.txt
+[1.395s] writing requirements to ../../build/tarea3/tarea3.egg-info/requires.txt
+[1.395s] writing top-level names to ../../build/tarea3/tarea3.egg-info/top_level.txt
+[1.455s] reading manifest file '../../build/tarea3/tarea3.egg-info/SOURCES.txt'
+[1.456s] writing manifest file '../../build/tarea3/tarea3.egg-info/SOURCES.txt'
+[1.457s] running build
+[1.457s] running build_py
+[1.457s] copying tarea3/battery_gps_node.py -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build/lib/tarea3
+[1.458s] copying tarea3/mission_control_node.py -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build/lib/tarea3
+[1.458s] copying tarea3/__init__.py -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build/lib/tarea3
+[1.459s] running install
+[1.462s] running install_lib
+[1.492s] copying /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build/lib/tarea3/battery_gps_node.py -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages/tarea3
+[1.493s] byte-compiling /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages/tarea3/battery_gps_node.py to battery_gps_node.cpython-310.pyc
+[1.494s] running install_data
+[1.494s] copying package.xml -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/share/tarea3
+[1.495s] running install_egg_info
+[1.528s] removing '/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages/tarea3-0.0.0-py3.10.egg-info' (and everything under it)
+[1.528s] Copying ../../build/tarea3/tarea3.egg-info to /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages/tarea3-0.0.0-py3.10.egg-info
+[1.535s] running install_scripts
+[1.714s] Installing battery_gps_node script to /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/tarea3
+[1.714s] Installing mission_control_node script to /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/tarea3
+[1.715s] writing list of installed files to '/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/install.log'
+[1.735s] Invoked command in '/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/src/tarea3' returned '0': PYTHONPATH=/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tarea3 build --build-base /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build install --record /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/install.log --single-version-externally-managed install_data

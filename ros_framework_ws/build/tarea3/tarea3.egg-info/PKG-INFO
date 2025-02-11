@@ -5,7 +5,7 @@ Summary: TODO: Package description
 Maintainer: usuario
 Maintainer-email: mgarciablasco26@gmail.com
 License: TODO: License declaration
-Requires-Dist: setuptools
+Requires-Dist: setuptoolspymavlinkrclpy
 Dynamic: license
 Dynamic: maintainer
 Dynamic: maintainer-email

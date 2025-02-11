@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/tarea3/tarea3.egg-info/PKG-INFO
+writing dependency_links to ../../build/tarea3/tarea3.egg-info/dependency_links.txt
+writing entry points to ../../build/tarea3/tarea3.egg-info/entry_points.txt
+writing requirements to ../../build/tarea3/tarea3.egg-info/requires.txt
+writing top-level names to ../../build/tarea3/tarea3.egg-info/top_level.txt
+reading manifest file '../../build/tarea3/tarea3.egg-info/SOURCES.txt'
+writing manifest file '../../build/tarea3/tarea3.egg-info/SOURCES.txt'
+running build
+running build_py
+copying tarea3/battery_gps_node.py -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build/lib/tarea3
+copying tarea3/mission_control_node.py -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build/lib/tarea3
+copying tarea3/__init__.py -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build/lib/tarea3
+running install
+running install_lib
+copying /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/build/lib/tarea3/mission_control_node.py -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages/tarea3
+byte-compiling /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages/tarea3/mission_control_node.py to mission_control_node.cpython-310.pyc
+running install_data
+copying resource/tarea3 -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/share/ament_index/resource_index/packages
+copying package.xml -> /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/share/tarea3
+running install_egg_info
+removing '/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages/tarea3-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/tarea3/tarea3.egg-info to /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/python3.10/site-packages/tarea3-0.0.0-py3.10.egg-info
+running install_scripts
+Installing battery_gps_node script to /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/tarea3
+Installing mission_control_node script to /home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/install/tarea3/lib/tarea3
+writing list of installed files to '/home/usuario/Documentos/GitHub/IR2136-RAYS/ros_framework_ws/build/tarea3/install.log'
